@@ -1,4 +1,14 @@
-a="kh"
-n="nikazohli"
+a="nicodem"
+s="aeiouy"
+r=""
+l="*"
+for i in a:
+    if i in s:
+        r+=i
+    else:
+        r+=l
 
-e=
+print(r)
+
+
+
