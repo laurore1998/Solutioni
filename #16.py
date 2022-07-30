@@ -12,24 +12,3 @@ for i in range(len(b)):
         s+=a[a.index(b[i][2]) - int(b[i][1])]
 
 print(s)
-
-
-
-
-"""if b[0]==">":
-    print(a.index(b[2])+int(b[1]))
-    print(a[a.index(b[2])+int(b[1])])
-else:
-    print(a.index(b[2]) - int(b[1]))
-    print(a[a.index(b[2])-int(b[1])])"""
-
-
-#print(a.index("N"))
-
-
-
-#print(b[i::][i+3]) chiffre
-
-
-
-#print(a.index())
