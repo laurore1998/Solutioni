@@ -1,5 +1,5 @@
-a="nicodem"
-s="aeiouy"
+a=input("text: ")
+s="aeiouy "
 r=""
 l="*"
 for i in a:
