@@ -8,3 +8,5 @@ You code, you think better, you code, you think further
 but you know the door that is open, it is equal to the sum of all the digits in the IP address, multiplied by the 
 first digit in the IP address. Ask the user to type in the IP address, and display the open door NB: All ip addresses 
 are separated by periods (.) Example: "127.0.0.1" will return (1 2 7 0 0 1) * 1 = 11 = > So the open door is 11
+
+2-
