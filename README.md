@@ -9,4 +9,10 @@ but you know the door that is open, it is equal to the sum of all the digits in 
 first digit in the IP address. Ask the user to type in the IP address, and display the open door NB: All ip addresses 
 are separated by periods (.) Example: "127.0.0.1" will return (1 2 7 0 0 1) * 1 = 11 = > So the open door is 11
 
-2-
+2-Display OK if the integer N is NOT divisible by 4, display NOK otherwise
+
+3-Ask to use his name. Use your own technique to put this name in title format. This means that the first letter of each
+word must be capitalized, and the rest are lowercase. And post the new name.
+
+Example:
+"Ayiti se yon BEL PEYI" ap tounen "Ayiti Se Yon Bel Peyi"
