@@ -1,12 +1,18 @@
-import numpy
 
-lst = [13, 4, 20, 15, 6, 24, 20]
-sup=0
-for i in range(len(lst)):
-    if lst[0]>lst[i]:
-        sup=lst[0]
-    else:
-        sup=lst[i]
+lst = [13, 4, 20, 15, 6, 29, 20]
 
-print(sup)
+sup=lst[0]
+for i in lst:
+    if sup < i:
+        sup = i
 
+
+print("superior: ",sup)
+
+inf=lst[0]
+for i in lst:
+    if inf > i:
+        inf = i
+
+
+print("inferior: ",inf)
